@@ -6,5 +6,5 @@ The primary objective of the **"Store Sales Dataset Analysis"** project is to an
 
 ### Team Members
 - **Mohamed Abobakr Mohamed**
-- **Abdelrahman Farh Mohamed Darwish**
-- **Mohamed Rabie Abdelhaseeb Abdelazeez**
+- **Abdelrahman Farh Mohamed**
+- **Mohamed Rabie Abdelhaseeb**
